@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0">
   <diagram name="Page-1" id="zyTiGxx4iOTDnzdSKias">
-    <mxGraphModel dx="1021" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="518" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dQtG7flH67agxD3rfi6--5" parent="1" style="swimlane;startSize=1;" value="" vertex="1">
           <mxGeometry height="601" width="400" x="234" y="121" as="geometry" />
         </mxCell>
-        <mxCell id="XUHokq8TEDuTA4QGv3p6-17" edge="1" parent="dQtG7flH67agxD3rfi6--5" source="dQtG7flH67agxD3rfi6--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.544;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;fontSize=10;entryPerimeter=0;" target="XUHokq8TEDuTA4QGv3p6-7">
+        <mxCell id="XUHokq8TEDuTA4QGv3p6-17" edge="1" parent="dQtG7flH67agxD3rfi6--5" source="dQtG7flH67agxD3rfi6--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;fontFamily=Times New Roman;fontSize=10;" target="XUHokq8TEDuTA4QGv3p6-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142" y="73.75" as="sourcePoint" />
             <mxPoint x="252.50000000000114" y="61.25" as="targetPoint" />
@@ -18,7 +18,7 @@
             <mxPoint x="-5" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUHokq8TEDuTA4QGv3p6-30" edge="1" parent="dQtG7flH67agxD3rfi6--5" source="dQtG7flH67agxD3rfi6--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="XUHokq8TEDuTA4QGv3p6-24">
+        <mxCell id="XUHokq8TEDuTA4QGv3p6-30" edge="1" parent="dQtG7flH67agxD3rfi6--5" source="dQtG7flH67agxD3rfi6--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="XUHokq8TEDuTA4QGv3p6-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-31" connectable="0" parent="XUHokq8TEDuTA4QGv3p6-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" vertex="1">
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dQtG7flH67agxD3rfi6--6" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Manage Dialysis Sessions" vertex="1">
-          <mxGeometry height="29" width="127" x="22" y="59" as="geometry" />
+          <mxGeometry height="29" width="127" x="22" y="112" as="geometry" />
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-25" edge="1" parent="dQtG7flH67agxD3rfi6--5" source="XUHokq8TEDuTA4QGv3p6-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="XUHokq8TEDuTA4QGv3p6-23">
           <mxGeometry relative="1" as="geometry" />
@@ -38,15 +38,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-2" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Register Patient" vertex="1">
-          <mxGeometry height="40.25" width="74" x="29" y="363" as="geometry" />
-        </mxCell>
-        <mxCell id="XUHokq8TEDuTA4QGv3p6-7" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Update Summary of Dialysis Session" vertex="1">
-          <mxGeometry height="54" width="89" x="262.5" y="28" as="geometry" />
+          <mxGeometry height="40.25" width="74" x="29" y="396" as="geometry" />
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-9" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Auto Update Monitoring ( Dialyzer, Philheath, Cash Sessions)" vertex="1">
-          <mxGeometry height="53" width="93" x="260.5" y="86" as="geometry" />
+          <mxGeometry height="56" width="100.5" x="262" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="XUHokq8TEDuTA4QGv3p6-20" edge="1" parent="dQtG7flH67agxD3rfi6--5" source="dQtG7flH67agxD3rfi6--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" target="XUHokq8TEDuTA4QGv3p6-9">
+        <mxCell id="XUHokq8TEDuTA4QGv3p6-20" edge="1" parent="dQtG7flH67agxD3rfi6--5" source="dQtG7flH67agxD3rfi6--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="XUHokq8TEDuTA4QGv3p6-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-21" connectable="0" parent="XUHokq8TEDuTA4QGv3p6-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;gt;" vertex="1">
@@ -60,10 +57,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-23" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Assign Doctor" vertex="1">
-          <mxGeometry height="41.25" width="75.5" x="29" y="487" as="geometry" />
+          <mxGeometry height="41.25" width="75.5" x="29" y="520.25" as="geometry" />
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-24" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Generate Hemodialysis Agreement Form" vertex="1">
-          <mxGeometry height="53" width="92" x="241" y="146.5" as="geometry" />
+          <mxGeometry height="56" width="100.5" x="173" y="197" as="geometry" />
         </mxCell>
         <mxCell id="XUHokq8TEDuTA4QGv3p6-32" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Manage Users" vertex="1">
           <mxGeometry height="41.25" width="75.5" x="246" y="371" as="geometry" />
@@ -75,16 +72,19 @@
           <mxGeometry height="41.25" width="75.5" x="246" y="479" as="geometry" />
         </mxCell>
         <mxCell id="WMZUSB2w_JfowttWpUHy-1" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Import Excel Files" vertex="1">
-          <mxGeometry height="28" width="127" x="20" y="118.5" as="geometry" />
+          <mxGeometry height="28" width="127" x="22" y="154" as="geometry" />
         </mxCell>
         <mxCell id="WMZUSB2w_JfowttWpUHy-3" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Print Reports" vertex="1">
-          <mxGeometry height="28" width="127" x="20" y="163" as="geometry" />
+          <mxGeometry height="28" width="127" x="22" y="199" as="geometry" />
         </mxCell>
         <mxCell id="WMZUSB2w_JfowttWpUHy-5" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Manage Patient Admission Monitoring" vertex="1">
-          <mxGeometry height="40.25" width="150" x="22" y="300" as="geometry" />
+          <mxGeometry height="40.25" width="150" x="10.5" y="334" as="geometry" />
         </mxCell>
         <mxCell id="WMZUSB2w_JfowttWpUHy-7" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="View Monitoring Records" vertex="1">
-          <mxGeometry height="40.25" width="150" x="20" y="251" as="geometry" />
+          <mxGeometry height="40.25" width="150" x="10.5" y="280.38" as="geometry" />
+        </mxCell>
+        <mxCell id="XUHokq8TEDuTA4QGv3p6-7" parent="dQtG7flH67agxD3rfi6--5" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" value="Update Summary of Dialysis Session" vertex="1">
+          <mxGeometry height="54" width="100.5" x="279" y="99.5" as="geometry" />
         </mxCell>
         <mxCell id="n23wEPwUSa0eUGTTWT8j-3" edge="1" parent="1" source="dQtG7flH67agxD3rfi6--9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=Times New Roman;fontSize=10;" target="dQtG7flH67agxD3rfi6--6">
           <mxGeometry relative="1" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dQtG7flH67agxD3rfi6--8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=10;" value="Cashier" vertex="1">
-          <mxGeometry height="60" width="30" x="154" y="422" as="geometry" />
+          <mxGeometry height="60" width="30" x="157" y="457" as="geometry" />
         </mxCell>
         <mxCell id="WMZUSB2w_JfowttWpUHy-2" edge="1" parent="1" source="dQtG7flH67agxD3rfi6--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="WMZUSB2w_JfowttWpUHy-1">
           <mxGeometry relative="1" as="geometry" />
@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dQtG7flH67agxD3rfi6--9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Times New Roman;fontSize=10;" value="Phic Staff" vertex="1">
-          <mxGeometry height="61" width="30" x="154" y="233" as="geometry" />
+          <mxGeometry height="61" width="30" x="160" y="267.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
